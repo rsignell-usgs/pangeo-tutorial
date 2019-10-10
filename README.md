@@ -9,17 +9,19 @@ This repository contains materials for the Pangeo Tutorial. The first version of
 <div><center>
   <img src="./images/pangeo_card_white.png" height="150"> 
   <img src="./images/xarray.png" height="125"> 
-  <img src="./images/dask.png" height="125"> 
+  <img src="./images/dask.png" height="125">
+  <img src="./images/holoviz.png" height="125">
   <img src="./images/jupyter.png" height="125"> 
-  <img src="./images/holoviz.png" height="125"></center></div>
+</center></div>
 
 -----
 
 - **[About Pangeo](https://pangeo.io/):** Pangeo is a community effort for big data in the geosciences using Python. A key component of the Pangeo effort is the improved integration of [Xarray](http://xarray.pydata.org/en/latest/index.html) and [Dask](http://dask.pydata.org/en/latest/index.html) to enable analysis of very large datasets.
 - **[About Xarray](https://xarray.pydata.org/en/latest/index.html):** Xarray is an open source project and Python package that aims to bring the labeled data power of pandas to the physical sciences, by providing N-dimensional variants of the core pandas data structures.
 - **[About Dask](https://dask.pydata.org/en/latest/index.html):** Dask is a flexible parallel computing library for analytic computing.
-- **[About Jupyter](https://jupyter.org/):** Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages. The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 - **[About HoloViz](https://holoviz.org/):** HoloViz provides a coordinated set of high-level tools for visualizing data:  Panel for making apps and dashboards, hvPlot to easily generate interactive plots, HoloViews to make data visualizable, GeoViews to extend HoloViews for geographic data, Datashader for rendering large datasets, Param to create declarative user-configurable objects, and Colorcet for perceptually uniform colormaps.
+- **[About Jupyter](https://jupyter.org/):** Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages. The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+
 
 ## Acknowledgements
 
