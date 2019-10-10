@@ -23,6 +23,7 @@ dependencies:
   - pyviz/label/dev::panel
   - pyviz/label/dev::datashader
   - pyviz/label/dev::geoviews
+  - pyviz/label/dev::param
   - netcdf4
   - metpy
   - zarr
