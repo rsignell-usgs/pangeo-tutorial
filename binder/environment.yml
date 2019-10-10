@@ -24,6 +24,7 @@ dependencies:
   - pyviz/label/dev::datashader
   - pyviz/label/dev::geoviews
   - netcdf4
+  - metpy
   - zarr
   - numcodecs
   - python-blosc
