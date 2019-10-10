@@ -15,17 +15,15 @@ dependencies:
   - intake
   - intake-xarray
   - s3fs
+  - fsspec
   - scikit-image
   - scikit-learn
   - dask-ml
-  - bokeh
-  - holoviews>=1.12.3
-  - panel
-  - geoviews
-  - hvplot
+  - pyviz/label/dev::hvplot
+  - pyviz/label/dev::holoviews
+  - pyviz/label/dev::panel
+  - pyviz/label/dev::datashader
   - rasterio
-  - geoviews
-  - datashader
   - netcdf4
   - zarr
   - numcodecs
@@ -42,5 +40,6 @@ dependencies:
   - pip
   - pip:
     - graphviz
+    - git+https://github.com/pyviz/geoviews.git
     - git+https://github.com/xgcm/xgcm.git
     - git+https://github.com/ian-r-rose/dask-labextension.git@de-asyncify#egg=dask_labextension 
